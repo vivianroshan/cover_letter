@@ -1,7 +1,6 @@
 #!/bin/zsh
 
 md_file_abs=$(realpath "$1")
-echo ${0:a:h}
 pandoc_html="${0:a:h}/pandoc.html"
 
 pandoc "$1" -o "$pandoc_html"
