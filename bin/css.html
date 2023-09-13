@@ -69,18 +69,11 @@
 
       h1+ul>li {
           display: inline;
-          white-space: pre;
           list-style-type: none;
           margin: 0 0.4em 0 0;
+		  font-size:0.83em;
       }
 
-      h1+ul>li:before {
-          content: "  \2022  ";
-      }
-
-      h1+ul>li:first-child:before {
-          content: "";
-      }
 
       /* p immediately after contact list = summary */
       h1+ul+p {
@@ -128,7 +121,7 @@
       @page {
           /* Change margins and paper size of PDF */
           /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
-          size: A4; //Letter, A4
+          size: Letter; //Letter, A4
           margin: 0.2in 0.2in;
       }
 

@@ -1,8 +1,9 @@
 # Vivian Roshan Adithan
-- [![**ph:**](./logo/phone.png)(+91) 8248477136](tel:(+91) 8248477136)
-- [![**email:**](./logo/email.png)vadithan@asu.edu](mailto:vadithan@asu.edu)
+- [![**ph:**](./logo/phone.png)+1 (623) 274-4100](tel:+1 (623) 274-4100)
+- [![**email:**](./logo/email.png)vivianroshan@gmail.com](mailto:vivianroshan@gmail.com)
 - [![**gh:**](./logo/github.png)github.com/vivianroshan](https://github.com/vivianroshan)
 - [![**ln:**](./logo/linkedin.png)linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
+- [![**location:**](./logo/location.png)1100 E. Lemon St. b109 Tempe AZ 85281](1100 E. Lemon St. b109 Tempe AZ 85281)
 
 ---
 
